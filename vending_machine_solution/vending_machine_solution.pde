@@ -14,7 +14,7 @@ color SHELF = color(164, 132, 167); //purple-grey
 color OUTSIDE = color(200); //grey
 float CAN_SPAWN_X = 250; //x value of spawn point for cans
 float CAN_SPAWN_Y = 750; //and y value
-boolean thisOne = true;
+boolean thisOne = true; // I much prefer this version of the code :-)
 
 //declare some buttons
 Button greenButton;

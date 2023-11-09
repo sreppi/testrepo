@@ -1,7 +1,7 @@
 //These are some constants we're using. The convention is to
 //name them in capital letters so you know they're constant
 //and their values won't change (be assigned new values)
-color GREEN = color(255, 0, 0);
+color GREEN = color(255, 0, 0); //This is a comment, VERY EXCITING.
 color DARK_GREEN = color(0, 120, 50);
 color BLUE = color(42, 155, 245);
 color DARK_BLUE = color(2, 115, 205);
